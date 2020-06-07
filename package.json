@@ -1,0 +1,24 @@
+{
+  "name": "com.guazu.lib-tess-dot-net",
+  "displayName": "LibTessDotNet",
+  "description": "Unity package version of the LibTessDotNet made by R\u00e9mi Gillig. Original repo https://github.com/speps/LibTessDotNet",
+  "version": "1.0.0",
+  "unity": "2018.3",
+  "keywords": [
+    "unity",
+    "tools",
+    "tesselator",
+    "tesselation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pacoelayudante/com.guazu.lib-tess-dot-net.git"
+  },
+  "author": {
+    "name": "Paco \u00c1lvarez Lojo",
+    "email": "pacoelayudante@gmail.com",
+    "url": "https://twitter.com/pacoelayudante/"
+  },
+  "type": "tool",
+  "hideInEditor": false
+}
